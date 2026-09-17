@@ -1,0 +1,14 @@
+{
+  "index": 74,
+  "n": 167,
+  "duration_assuming_15hz": 11.133333333333333,
+  "instruction": "Move the yellow mug forward",
+  "metadata": {
+    "file_path": "/nfs/kun2/datasets/r2d2/r2d2-data-full/CLVR/success/2023-05-09/Tue_May__9_02:08:20_2023/trajectory.h5",
+    "recording_folderpath": "/nfs/kun2/datasets/r2d2/r2d2-data-full/CLVR/success/2023-05-09/Tue_May__9_02:08:20_2023/recordings/MP4"
+  },
+  "reward": 1.0,
+  "id": "CLVR+236539bc+2023-05-09-02h-08m-20s",
+  "control_hz": 15,
+  "raw_relative": "CLVR/success/2023-05-09/Tue_May__9_02:08:20_2023"
+}

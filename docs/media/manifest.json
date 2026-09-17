@@ -1,0 +1,47 @@
+[
+  {
+    "iteration": 1,
+    "success": false,
+    "source": "artifacts/iteration1/side_by_side.mp4",
+    "gif": "docs/media/iteration-1.gif",
+    "bytes": 2321442,
+    "fps": 10,
+    "note": "Full recorded duration, real exterior1 | sim exterior1, no speed change"
+  },
+  {
+    "iteration": 2,
+    "success": true,
+    "source": "artifacts/iteration2/side_by_side.mp4",
+    "gif": "docs/media/iteration-2.gif",
+    "bytes": 2312712,
+    "fps": 10,
+    "note": "Full recorded duration, real exterior1 | sim exterior1, no speed change"
+  },
+  {
+    "iteration": 3,
+    "success": false,
+    "source": "artifacts/iteration3/side_by_side.mp4",
+    "gif": "docs/media/iteration-3.gif",
+    "bytes": 2308694,
+    "fps": 10,
+    "note": "Full recorded duration, real exterior1 | sim exterior1, no speed change"
+  },
+  {
+    "iteration": 4,
+    "success": false,
+    "source": "artifacts/iteration4/side_by_side.mp4",
+    "gif": "docs/media/iteration-4.gif",
+    "bytes": 2317679,
+    "fps": 10,
+    "note": "Full recorded duration, real exterior1 | sim exterior1, no speed change"
+  },
+  {
+    "iteration": 5,
+    "success": false,
+    "source": "artifacts/iteration5/side_by_side.mp4",
+    "gif": "docs/media/iteration-5.gif",
+    "bytes": 2180733,
+    "fps": 10,
+    "note": "Full recorded duration, real exterior1 | sim exterior1, no speed change"
+  }
+]

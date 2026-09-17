@@ -1,0 +1,32 @@
+{
+  "ext1": {
+    "mean_landmark_error_px": 5.392523475900296,
+    "max_landmark_error_px": 10.732299313073852,
+    "point_errors_px": [
+      4.4667278136460045,
+      5.12398894152121,
+      9.125430206358391,
+      2.2324280435673267,
+      2.253463621290862,
+      1.5793030370479992,
+      10.732299313073852,
+      7.626546830696714
+    ],
+    "note": "residual against manual labels, not independent ground-truth calibration accuracy"
+  },
+  "ext2": {
+    "mean_landmark_error_px": 7.207294111610611,
+    "max_landmark_error_px": 16.238177320709706,
+    "point_errors_px": [
+      15.545419009507786,
+      1.6110680104855322,
+      3.0059435493377484,
+      2.8971232891474443,
+      5.2253146685915635,
+      2.7753517426323353,
+      10.359955302472773,
+      16.238177320709706
+    ],
+    "note": "residual against manual labels, not independent ground-truth calibration accuracy"
+  }
+}

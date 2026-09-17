@@ -1,0 +1,15 @@
+{
+  "matched_frames": 168,
+  "total_frames": 181,
+  "mean_cap_pixel_error": 7.823388753945848,
+  "median_cap_pixel_error": 5.79848174303229,
+  "max_cap_pixel_error": 26.30103504511645,
+  "final_cap_pixel_error": 2.762030227135423,
+  "phase_mean_error_px": {
+    "before_grasp": 5.732457720625308,
+    "grasp": 8.852511869605712,
+    "transport": 13.429639358157223,
+    "release_final": 8.99775342581385
+  },
+  "warning": "Automatic color-cap correspondences, visually reviewed on sampled frames; errors combine camera, object pose/geometry and motion differences."
+}

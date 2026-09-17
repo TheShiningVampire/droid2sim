@@ -1,0 +1,19 @@
+{
+  "success": false,
+  "checks": {
+    "outside_bowl": false,
+    "on_table": true,
+    "resting_height": true,
+    "nearly_horizontal": true,
+    "settled": true,
+    "lifted_from_bowl": false,
+    "gripper_contact": true,
+    "finite": true
+  },
+  "predicate": "The marker has been lifted above the bowl rim with gripper contact and ends entirely outside the bowl, within the circular tabletop, nearly horizontal at tabletop height, with speed below 4 cm/s.",
+  "final_pen_position": [
+    0.6508778442526897,
+    -0.2580891094817298,
+    -0.02110641922066926
+  ]
+}

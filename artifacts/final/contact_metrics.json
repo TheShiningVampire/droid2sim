@@ -1,0 +1,5 @@
+{
+  "selected_iteration": 2,
+  "max_relative_marker_translation_change_during_frames120_150_m": 0.0004430201109816428,
+  "note": "marker COM relative to rigid pinch frame; sampled at15Hz, does not measure instantaneous pad surface slip"
+}

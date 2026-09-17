@@ -1,0 +1,21 @@
+# Large local inputs and environments (anchored so package data modules are tracked).
+/.venv/
+/data/
+/vendor/
+__pycache__/
+.ruff_cache/
+*.pyc
+*.npy
+*.npz
+*.egg-info/
+
+# Keep selected reproducible videos; ignore any other generated recordings.
+*.mp4
+!/pipeline_explainer.mp4
+!/sim_ext1.mp4
+!/side_by_side.mp4
+!/artifacts/iteration[1-5]/*.mp4
+!/artifacts/final/*.mp4
+
+# Scratch logs remain local. The running log and published validation are tracked.
+/*.log

@@ -1,0 +1,57 @@
+{
+  "final_poses": {
+    "pen": {
+      "position": [
+        0.5194765021556603,
+        -0.09492498720990367,
+        -0.03156378553080094
+      ],
+      "quaternion_wxyz": [
+        0.5271604868503483,
+        0.1164412281190052,
+        0.17809105653014823,
+        0.8226948626810646
+      ]
+    },
+    "bowl": {
+      "position": [
+        0.6472961689040521,
+        -0.25367866754782475,
+        -0.04011771287407475
+      ],
+      "quaternion_wxyz": [
+        0.999998150762506,
+        1.540054445271105e-07,
+        -2.8378760886789476e-08,
+        -0.0019231410621476368
+      ]
+    }
+  },
+  "trajectory_sha256": "a502d4783a34879137a77bf74fff2677db9fb4fed89069c0a5ba9b0e9171ff4b",
+  "position_control": "linear interpolation between original observations at their fixed 15 Hz timestamps; unchanged samples; native Menagerie actuators",
+  "joint_rmse_rad": 0.020315250895469813,
+  "joint_max_error_rad": 0.10959701133150818,
+  "min_pen_contact_distance_m": -0.004226574457179244,
+  "pen_contact_substeps": 30532,
+  "frames_with_pen_gripper_contact": 47,
+  "max_sampled_pen_contact_force_n": 6.0429482990265475,
+  "pen_max_z": 0.126706131890824,
+  "pen_final_velocity": [
+    0.0021286598248505305,
+    0.0009768669638901305,
+    -1.7006114845050645e-13,
+    0.2724734337755058,
+    -0.0004773790118849529,
+    -0.0010437708764468134
+  ],
+  "finite": true,
+  "mujoco_warning_counts": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}

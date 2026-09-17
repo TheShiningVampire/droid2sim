@@ -1,0 +1,69 @@
+{
+  "final_poses": {
+    "pen": {
+      "position": [
+        0.6507211965413459,
+        -0.2623076735502574,
+        -0.02347800698249283
+      ],
+      "quaternion_wxyz": [
+        0.3241635481418969,
+        -0.15937892440442097,
+        -0.41722197930444915,
+        0.8339317552995715
+      ]
+    },
+    "bowl": {
+      "position": [
+        0.6482924407213806,
+        -0.25567095173146026,
+        -0.04011804426151019
+      ],
+      "quaternion_wxyz": [
+        0.9984771476646979,
+        7.505674320598682e-07,
+        2.5893492025024086e-07,
+        -0.055166888535953605
+      ]
+    }
+  },
+  "trajectory_sha256": "a502d4783a34879137a77bf74fff2677db9fb4fed89069c0a5ba9b0e9171ff4b",
+  "position_control": "linear interpolation between original observations at their fixed 15 Hz timestamps; unchanged samples; native Menagerie actuators",
+  "joint_rmse_rad": 0.020315861502313622,
+  "joint_max_error_rad": 0.10959701133140293,
+  "min_pen_contact_distance_m": -0.0007214974829090207,
+  "worst_pen_contact": {
+    "time": 7.128000000000715,
+    "distance_m": -0.0007214974829090207,
+    "geoms": [
+      "pen_barrel",
+      "rq_right_pad1"
+    ],
+    "bodies": [
+      "pen",
+      "rq_right_pad"
+    ]
+  },
+  "pen_contact_substeps": 25570,
+  "frames_with_pen_gripper_contact": 11,
+  "max_sampled_pen_contact_force_n": 45.52045964968252,
+  "pen_max_z": -0.0232784008,
+  "pen_final_velocity": [
+    -8.265209241797261e-08,
+    -1.042158350292374e-07,
+    -1.03434600885774e-08,
+    -1.5086663384698707e-05,
+    -4.700191072959386e-07,
+    -4.827031125953869e-07
+  ],
+  "finite": true,
+  "mujoco_warning_counts": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ]
+}

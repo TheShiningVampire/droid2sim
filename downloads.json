@@ -1,0 +1,884 @@
+[
+  {
+    "url": "https://storage.googleapis.com/storage/v1/b/gresearch/o?prefix=robotics%2Fdroid_100%2F&maxResults=1000",
+    "file": "sources/sample_listing.json",
+    "bytes": 36611,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_100/1.0.0/dataset_info.json",
+    "file": "data/droid_100/1.0.0/dataset_info.json",
+    "bytes": 760,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_100/1.0.0/features.json",
+    "file": "data/droid_100/1.0.0/features.json",
+    "bytes": 18665,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00000-of-00031",
+    "file": "data/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00000-of-00031",
+    "bytes": 27488816,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00001-of-00031",
+    "file": "data/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00001-of-00031",
+    "bytes": 53215423,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/droid-dataset/droid/main/docs/the-droid-dataset.md",
+    "file": "sources/droid_dataset.md",
+    "bytes": 6685,
+    "complete": true
+  },
+  {
+    "url": "https://huggingface.co/KarlP/droid/raw/main/README.md",
+    "file": "sources/calibration_README.md",
+    "bytes": 7290,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00002-of-00031",
+    "file": "data/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00002-of-00031",
+    "bytes": 104176382,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00003-of-00031",
+    "file": "data/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00003-of-00031",
+    "bytes": 49407960,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00004-of-00031",
+    "file": "data/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00004-of-00031",
+    "bytes": 57059559,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00005-of-00031",
+    "file": "data/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00005-of-00031",
+    "bytes": 28932473,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00006-of-00031",
+    "file": "data/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00006-of-00031",
+    "bytes": 12745632,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00007-of-00031",
+    "file": "data/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00007-of-00031",
+    "bytes": 41133699,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00008-of-00031",
+    "file": "data/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00008-of-00031",
+    "bytes": 131132714,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00009-of-00031",
+    "file": "data/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00009-of-00031",
+    "bytes": 9541347,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00010-of-00031",
+    "file": "data/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00010-of-00031",
+    "bytes": 30130184,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00011-of-00031",
+    "file": "data/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00011-of-00031",
+    "bytes": 64826210,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00012-of-00031",
+    "file": "data/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00012-of-00031",
+    "bytes": 64716351,
+    "complete": true
+  },
+  {
+    "url": "https://api.github.com/repos/google-deepmind/mujoco_menagerie/git/trees/main?recursive=1",
+    "file": "sources/menagerie_tree.json",
+    "bytes": 891921,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00013-of-00031",
+    "file": "data/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00013-of-00031",
+    "bytes": 184352180,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00014-of-00031",
+    "file": "data/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00014-of-00031",
+    "bytes": 31864169,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00015-of-00031",
+    "file": "data/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00015-of-00031",
+    "bytes": 99620534,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00016-of-00031",
+    "file": "data/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00016-of-00031",
+    "bytes": 134703547,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00017-of-00031",
+    "file": "data/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00017-of-00031",
+    "bytes": 27059787,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00018-of-00031",
+    "file": "data/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00018-of-00031",
+    "bytes": 97615525,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00019-of-00031",
+    "file": "data/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00019-of-00031",
+    "bytes": 14490316,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00020-of-00031",
+    "file": "data/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00020-of-00031",
+    "bytes": 69822437,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00021-of-00031",
+    "file": "data/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00021-of-00031",
+    "bytes": 46506562,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00022-of-00031",
+    "file": "data/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00022-of-00031",
+    "bytes": 100973263,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00023-of-00031",
+    "file": "data/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00023-of-00031",
+    "bytes": 80456132,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00024-of-00031",
+    "file": "data/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00024-of-00031",
+    "bytes": 25002446,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00025-of-00031",
+    "file": "data/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00025-of-00031",
+    "bytes": 91800923,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00026-of-00031",
+    "file": "data/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00026-of-00031",
+    "bytes": 173915084,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00027-of-00031",
+    "file": "data/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00027-of-00031",
+    "bytes": 113599658,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00028-of-00031",
+    "file": "data/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00028-of-00031",
+    "bytes": 29432148,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00029-of-00031",
+    "file": "data/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00029-of-00031",
+    "bytes": 20013917,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00030-of-00031",
+    "file": "data/droid_100/1.0.0/r2d2_faceblur-train.tfrecord-00030-of-00031",
+    "bytes": 176860291,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/LICENSE",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/LICENSE",
+    "bytes": 10173,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/README.md",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/README.md",
+    "bytes": 2908,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/finger_0.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/finger_0.obj",
+    "bytes": 87872,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/finger_1.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/finger_1.obj",
+    "bytes": 64651,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/hand.stl",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/hand.stl",
+    "bytes": 10084,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/hand_0.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/hand_0.obj",
+    "bytes": 9091,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/hand_1.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/hand_1.obj",
+    "bytes": 121863,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/hand_2.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/hand_2.obj",
+    "bytes": 596001,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/hand_3.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/hand_3.obj",
+    "bytes": 902145,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/hand_4.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/hand_4.obj",
+    "bytes": 151988,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link0.stl",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link0.stl",
+    "bytes": 10084,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link0_0.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link0_0.obj",
+    "bytes": 296497,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link0_1.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link0_1.obj",
+    "bytes": 103978,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link0_10.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link0_10.obj",
+    "bytes": 343308,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link0_11.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link0_11.obj",
+    "bytes": 22295,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link0_2.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link0_2.obj",
+    "bytes": 590892,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link0_3.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link0_3.obj",
+    "bytes": 47588,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link0_4.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link0_4.obj",
+    "bytes": 211200,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link0_5.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link0_5.obj",
+    "bytes": 17023,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link0_7.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link0_7.obj",
+    "bytes": 30699,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link0_8.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link0_8.obj",
+    "bytes": 3263194,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link0_9.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link0_9.obj",
+    "bytes": 105629,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link1.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link1.obj",
+    "bytes": 3274995,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link1.stl",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link1.stl",
+    "bytes": 15084,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link2.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link2.obj",
+    "bytes": 3295608,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link2.stl",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link2.stl",
+    "bytes": 15084,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link3.stl",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link3.stl",
+    "bytes": 15084,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link3_0.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link3_0.obj",
+    "bytes": 3046804,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link3_1.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link3_1.obj",
+    "bytes": 65260,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link3_2.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link3_2.obj",
+    "bytes": 83591,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link3_3.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link3_3.obj",
+    "bytes": 457684,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link4.stl",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link4.stl",
+    "bytes": 15084,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link4_0.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link4_0.obj",
+    "bytes": 83486,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link4_1.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link4_1.obj",
+    "bytes": 3148001,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link4_2.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link4_2.obj",
+    "bytes": 455522,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link4_3.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link4_3.obj",
+    "bytes": 67497,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link5_0.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link5_0.obj",
+    "bytes": 824158,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link5_1.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link5_1.obj",
+    "bytes": 63174,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link5_2.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link5_2.obj",
+    "bytes": 3856621,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link5_collision_0.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link5_collision_0.obj",
+    "bytes": 3861,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link5_collision_1.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link5_collision_1.obj",
+    "bytes": 2412,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link5_collision_2.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link5_collision_2.obj",
+    "bytes": 3786,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link6.stl",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link6.stl",
+    "bytes": 10084,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link6_0.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link6_0.obj",
+    "bytes": 157563,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link6_1.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link6_1.obj",
+    "bytes": 27106,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link6_10.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link6_10.obj",
+    "bytes": 368502,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link6_11.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link6_11.obj",
+    "bytes": 32653,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link6_12.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link6_12.obj",
+    "bytes": 3894,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link6_13.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link6_13.obj",
+    "bytes": 3798,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link6_14.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link6_14.obj",
+    "bytes": 444469,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link6_15.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link6_15.obj",
+    "bytes": 668552,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link6_16.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link6_16.obj",
+    "bytes": 3675358,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link6_2.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link6_2.obj",
+    "bytes": 9916,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link6_3.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link6_3.obj",
+    "bytes": 11943,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link6_4.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link6_4.obj",
+    "bytes": 13846,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link6_5.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link6_5.obj",
+    "bytes": 11841,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link6_6.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link6_6.obj",
+    "bytes": 12597,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link6_7.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link6_7.obj",
+    "bytes": 4382,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link6_8.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link6_8.obj",
+    "bytes": 9131,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link6_9.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link6_9.obj",
+    "bytes": 17616,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link7.stl",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link7.stl",
+    "bytes": 10084,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link7_0.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link7_0.obj",
+    "bytes": 1362355,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link7_1.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link7_1.obj",
+    "bytes": 121358,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link7_2.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link7_2.obj",
+    "bytes": 208907,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link7_3.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link7_3.obj",
+    "bytes": 123684,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link7_4.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link7_4.obj",
+    "bytes": 85732,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link7_5.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link7_5.obj",
+    "bytes": 226402,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link7_6.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link7_6.obj",
+    "bytes": 99900,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/assets/link7_7.obj",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/assets/link7_7.obj",
+    "bytes": 792162,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/hand.xml",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/hand.xml",
+    "bytes": 4547,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/mjx_hand.xml",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/mjx_hand.xml",
+    "bytes": 4222,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/mjx_panda.xml",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/mjx_panda.xml",
+    "bytes": 14387,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/mjx_panda_nohand.xml",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/mjx_panda_nohand.xml",
+    "bytes": 10468,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/mjx_scene.xml",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/mjx_scene.xml",
+    "bytes": 1163,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/mjx_single_cube.xml",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/mjx_single_cube.xml",
+    "bytes": 1180,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/panda.png",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/panda.png",
+    "bytes": 2192427,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/panda.xml",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/panda.xml",
+    "bytes": 14438,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/panda_nohand.xml",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/panda_nohand.xml",
+    "bytes": 11246,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/franka_emika_panda/scene.xml",
+    "file": "vendor/mujoco_menagerie/franka_emika_panda/scene.xml",
+    "bytes": 819,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/robotiq_2f85/2f85.png",
+    "file": "vendor/mujoco_menagerie/robotiq_2f85/2f85.png",
+    "bytes": 1140430,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/robotiq_2f85/2f85.xml",
+    "file": "vendor/mujoco_menagerie/robotiq_2f85/2f85.xml",
+    "bytes": 9540,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/robotiq_2f85/LICENSE",
+    "file": "vendor/mujoco_menagerie/robotiq_2f85/LICENSE",
+    "bytes": 1297,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/robotiq_2f85/README.md",
+    "file": "vendor/mujoco_menagerie/robotiq_2f85/README.md",
+    "bytes": 1367,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/robotiq_2f85/assets/base.stl",
+    "file": "vendor/mujoco_menagerie/robotiq_2f85/assets/base.stl",
+    "bytes": 1712484,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/robotiq_2f85/assets/base_mount.stl",
+    "file": "vendor/mujoco_menagerie/robotiq_2f85/assets/base_mount.stl",
+    "bytes": 1091784,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/robotiq_2f85/assets/coupler.stl",
+    "file": "vendor/mujoco_menagerie/robotiq_2f85/assets/coupler.stl",
+    "bytes": 89084,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/robotiq_2f85/assets/driver.stl",
+    "file": "vendor/mujoco_menagerie/robotiq_2f85/assets/driver.stl",
+    "bytes": 67084,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/robotiq_2f85/assets/follower.stl",
+    "file": "vendor/mujoco_menagerie/robotiq_2f85/assets/follower.stl",
+    "bytes": 110484,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/robotiq_2f85/assets/pad.stl",
+    "file": "vendor/mujoco_menagerie/robotiq_2f85/assets/pad.stl",
+    "bytes": 15084,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/robotiq_2f85/assets/silicone_pad.stl",
+    "file": "vendor/mujoco_menagerie/robotiq_2f85/assets/silicone_pad.stl",
+    "bytes": 15084,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/robotiq_2f85/assets/spring_link.stl",
+    "file": "vendor/mujoco_menagerie/robotiq_2f85/assets/spring_link.stl",
+    "bytes": 84884,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/google-deepmind/mujoco_menagerie/8161bba264d7fa7c99ca301e91e7fb44737676ad/robotiq_2f85/scene.xml",
+    "file": "vendor/mujoco_menagerie/robotiq_2f85/scene.xml",
+    "bytes": 1393,
+    "complete": true
+  },
+  {
+    "url": "https://huggingface.co/KarlP/droid/resolve/main/episode_id_to_path.json",
+    "file": "data/calibration/episode_id_to_path.json",
+    "bytes": 7237770,
+    "complete": true
+  },
+  {
+    "url": "https://huggingface.co/KarlP/droid/resolve/main/cam2base_extrinsics.json",
+    "file": "data/calibration/cam2base_extrinsics.json",
+    "bytes": 16236005,
+    "complete": true
+  },
+  {
+    "url": "https://huggingface.co/KarlP/droid/resolve/main/cam2base_extrinsic_superset.json",
+    "file": "data/calibration/cam2base_extrinsic_superset.json",
+    "bytes": 20310686,
+    "complete": true
+  },
+  {
+    "url": "https://huggingface.co/KarlP/droid/resolve/main/cam2cam_extrinsics.json",
+    "file": "data/calibration/cam2cam_extrinsics.json",
+    "bytes": 189389442,
+    "complete": true
+  },
+  {
+    "url": "https://huggingface.co/KarlP/droid/resolve/main/intrinsics.json",
+    "file": "data/calibration/intrinsics.json",
+    "bytes": 125812944,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/storage/v1/b/gresearch/o?prefix=robotics%2Fdroid_raw%2F1.0.1%2FCLVR%2Fsuccess%2F2023-05-09%2FTue_May__9_02%3A08%3A20_2023%2F&maxResults=1000",
+    "file": "sources/raw_listing.json",
+    "bytes": 15358,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_raw/1.0.1/CLVR/success/2023-05-09/Tue_May__9_02%3A08%3A20_2023/metadata_CLVR%2B236539bc%2B2023-05-09-02h-08m-20s.json",
+    "file": "data/raw/metadata_CLVR+236539bc+2023-05-09-02h-08m-20s.json",
+    "bytes": 1770,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_raw/1.0.1/CLVR/success/2023-05-09/Tue_May__9_02%3A08%3A20_2023/recordings/MP4/16787047-stereo.mp4",
+    "file": "data/raw/recordings/MP4/16787047-stereo.mp4",
+    "bytes": 2705268,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_raw/1.0.1/CLVR/success/2023-05-09/Tue_May__9_02%3A08%3A20_2023/recordings/MP4/20103212-stereo.mp4",
+    "file": "data/raw/recordings/MP4/20103212-stereo.mp4",
+    "bytes": 3633005,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_raw/1.0.1/CLVR/success/2023-05-09/Tue_May__9_02%3A08%3A20_2023/recordings/MP4/20655732-stereo.mp4",
+    "file": "data/raw/recordings/MP4/20655732-stereo.mp4",
+    "bytes": 4554522,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_raw/1.0.1/CLVR/success/2023-05-09/Tue_May__9_02%3A08%3A20_2023/trajectory.h5",
+    "file": "data/raw/trajectory.h5",
+    "bytes": 1071936,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/gresearch/robotics/droid_raw/1.0.1/CLVR/success/2023-05-09/Tue_May__9_02%3A08%3A20_2023/trajectory_im128.h5",
+    "file": "data/raw/trajectory_im128.h5",
+    "bytes": 1525856,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/droid-dataset/droid/main/droid/robot_ik/franka/panda.xml",
+    "file": "sources/droid_panda.xml",
+    "bytes": 5594,
+    "complete": true
+  },
+  {
+    "url": "https://api.github.com/repos/droid-dataset/droid/git/trees/main?recursive=1",
+    "file": "sources/droid_tree.json",
+    "bytes": 71087,
+    "complete": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/droid-dataset/droid/main/droid/franka/robot.py",
+    "file": "sources/droid_robot.py",
+    "bytes": 11102,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/storage/v1/b/gresearch/o?prefix=robotics%2Fdroid_raw%2F1.0.1%2FIRIS%2Fsuccess%2F2023-05-04%2FThu_May__4_13%3A41%3A33_2023%2F&maxResults=1000",
+    "file": "sources/raw_pen_listing.json",
+    "bytes": 32,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/storage/v1/b/gresearch/o?prefix=robotics%2Fdroid_raw%2F1.0.0%2FIRIS%2Fsuccess%2F2023-05-04%2FThu_May__4_13%3A41%3A33_2023%2F&maxResults=1000",
+    "file": "sources/raw_pen_listing_1.0.0.json",
+    "bytes": 32,
+    "complete": true
+  },
+  {
+    "url": "https://storage.googleapis.com/storage/v1/b/gresearch/o?prefix=robotics%2Fdroid_raw%2FIRIS%2Fsuccess%2F2023-05-04%2FThu_May__4_13%3A41%3A33_2023%2F&maxResults=1000",
+    "file": "sources/raw_pen_listing_unversioned.json",
+    "bytes": 32,
+    "complete": true
+  }
+]

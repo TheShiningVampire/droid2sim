@@ -1,0 +1,52 @@
+tfds.core.DatasetInfo(
+    name='r2d2_faceblur',
+    full_name='r2d2_faceblur/1.0.0',
+    description="""
+    
+    """,
+    homepage='https://www.tensorflow.org/datasets/catalog/r2d2_faceblur',
+    data_dir='/home/vinit/my_things/codes/droid2sim/data/droid_100/1.0.0',
+    file_format=tfrecord,
+    download_size=Unknown size,
+    dataset_size=2.04 GiB,
+    features=FeaturesDict({
+        'episode_metadata': FeaturesDict({
+            'file_path': string,
+            'recording_folderpath': string,
+        }),
+        'steps': Dataset({
+            'action': Tensor(shape=(7,), dtype=float64, description=Robot action, consists of [6x joint velocities, 1x gripper position].),
+            'action_dict': FeaturesDict({
+                'cartesian_position': Tensor(shape=(6,), dtype=float64, description=Commanded Cartesian position),
+                'cartesian_velocity': Tensor(shape=(6,), dtype=float64, description=Commanded Cartesian velocity),
+                'gripper_position': Tensor(shape=(1,), dtype=float64, description=Commanded gripper position),
+                'gripper_velocity': Tensor(shape=(1,), dtype=float64, description=Commanded gripper velocity),
+                'joint_position': Tensor(shape=(7,), dtype=float64, description=Commanded joint position),
+                'joint_velocity': Tensor(shape=(7,), dtype=float64, description=Commanded joint velocity),
+            }),
+            'discount': Scalar(shape=(), dtype=float32, description=Discount if provided, default to 1.),
+            'is_first': bool,
+            'is_last': bool,
+            'is_terminal': bool,
+            'language_instruction': string,
+            'language_instruction_2': string,
+            'language_instruction_3': string,
+            'observation': FeaturesDict({
+                'cartesian_position': Tensor(shape=(6,), dtype=float64, description=Robot Cartesian state),
+                'exterior_image_1_left': Image(shape=(180, 320, 3), dtype=uint8, description=Exterior camera 1 left viewpoint),
+                'exterior_image_2_left': Image(shape=(180, 320, 3), dtype=uint8, description=Exterior camera 2 left viewpoint),
+                'gripper_position': Tensor(shape=(1,), dtype=float64, description=Gripper position statae),
+                'joint_position': Tensor(shape=(7,), dtype=float64, description=Joint position state),
+                'wrist_image_left': Image(shape=(180, 320, 3), dtype=uint8, description=Wrist camera RGB left viewpoint),
+            }),
+            'reward': Scalar(shape=(), dtype=float32, description=Reward if provided, 1 on final step for demos.),
+        }),
+    }),
+    supervised_keys=None,
+    disable_shuffling=False,
+    nondeterministic_order=False,
+    splits={
+        'train': <SplitInfo num_examples=100, num_shards=31>,
+    },
+    citation="""""",
+)

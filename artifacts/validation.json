@@ -1,0 +1,8 @@
+{
+  "sample_files_md5_verified": 33,
+  "download_payload_bytes": 2607040732,
+  "conservative_total_with_dependency_reserve": 3607040732,
+  "trajectory_sha256": "a502d4783a34879137a77bf74fff2677db9fb4fed89069c0a5ba9b0e9171ff4b",
+  "iterations_checked": 5,
+  "all_recorded_targets_exactly_preserved": true
+}

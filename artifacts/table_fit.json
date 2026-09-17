@@ -1,0 +1,9 @@
+{
+  "center": [
+    0.657256695302009,
+    -0.0750696136026772,
+    -0.04011440080010674
+  ],
+  "radius": 0.2574275098798219,
+  "method": "joint camera and circular table silhouette fit; horizontal table assumed"
+}

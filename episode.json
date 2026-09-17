@@ -1,0 +1,14 @@
+{
+  "index": 6,
+  "n": 181,
+  "duration_assuming_15hz": 12.066666666666666,
+  "instruction": "Take the pen out of the bowl and place it on the table",
+  "metadata": {
+    "file_path": "/nfs/kun2/datasets/r2d2/r2d2-data-full/IRIS/success/2023-05-04/Thu_May__4_13:41:33_2023/trajectory.h5",
+    "recording_folderpath": "/nfs/kun2/datasets/r2d2/r2d2-data-full/IRIS/success/2023-05-04/Thu_May__4_13:41:33_2023/recordings/MP4"
+  },
+  "reward": 1.0,
+  "raw_relative": "IRIS/success/2023-05-04/Thu_May__4_13:41:33_2023",
+  "control_hz": 15,
+  "id": null
+}

@@ -1,0 +1,8 @@
+{
+  "pregrasp_median_real_minus_sim_cap_pixels": [
+    -4.512382075471692,
+    3.4563679245283083
+  ],
+  "transport_mean_pixel_error_after_removing_static_bias": 10.626442540556434,
+  "note": "diagnostic only: no image warp, camera change, trajectory edit or new physics run applied"
+}

@@ -1,0 +1,65 @@
+{
+  "table": {
+    "center_xy": [
+      0.657256695302009,
+      -0.0750696136026772
+    ],
+    "top_z": -0.04011440080010674,
+    "radius": 0.2574275098798219,
+    "friction": [
+      0.6,
+      0.005,
+      0.0001
+    ],
+    "mass": "fixed support (infinite)",
+    "provenance": "circular silhouette fit jointly with cameras; horizontal and 30 mm thick assumed; friction assumed"
+  },
+  "bowl": {
+    "position": [
+      0.647,
+      -0.253,
+      -0.04011440080010674
+    ],
+    "quaternion_wxyz": [
+      1,
+      0,
+      0,
+      0
+    ],
+    "height": 0.055,
+    "bottom_radius": 0.066,
+    "top_radius": 0.083,
+    "base_thickness": 0.008,
+    "wall_thickness": 0.004,
+    "mass": 0.18,
+    "friction": [
+      0.5,
+      0.005,
+      0.0001
+    ],
+    "provenance": "position and diameter estimated from both exterior views; height and base thickness estimated using marker/hand scale; circular tapered shape, mass and friction assumed; no raw depth; iteration2 lower radius53 to66mm to remove impossible initial wall intersection; upper silhouette preserved"
+  },
+  "pen": {
+    "position": [
+      0.648,
+      -0.267,
+      -0.02327840080010674
+    ],
+    "euler_xyz": [
+      0,
+      0,
+      3.081592653589793
+    ],
+    "length": 0.12,
+    "radius": 0.0084,
+    "cap_length": 0.04,
+    "mass": 0.018,
+    "friction": [
+      0.8,
+      0.01,
+      0.0001
+    ],
+    "provenance": "opaque black/teal marker; length/radius estimated from views and recorded gripper closure, center triangulated then placed on bowl bottom; horizontal initial pose assumed; mass/friction assumed; iteration2 length reduced 140 to120mm from image extent; radius8.4mm consistent with recorded15.7mm gripper gap plus small compression/contact margin; y refined -11mm within image-calibration uncertainty; cap turned toward measured teal end; iteration5 retain iteration2 grasp contacts, use explicit stiffer marker/bowl contact pairs to reduce support penetration",
+    "bowl_contact_override": true
+  }
+}
